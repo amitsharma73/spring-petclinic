@@ -2,7 +2,7 @@ FROM openjdk:8-jre
 
 
 
-EXPOSE 8082
+EXPOSE 8080
 
 
 
